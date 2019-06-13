@@ -1,0 +1,35 @@
+Little Fighters 0.51v
+
+-Animasyon
+	-Vuruş
+	+++++++Yürüyüş
+			- Realease'de dur demek ve els'i kaldirmak
+	
+-Skiller
+	-Her sınıf için
+
+-Online UDP Protokolü
+	-Çıkışta hartadan gozumemesi
+	-Sohbet Odası
+	
+-Sınıfların oluşturulması
+	-Sınıfların statulerının dengesi
+
+-Map dizaynı
+	-Birden fazla yapmalıyız Çünkü map olusturmayı kolaylaştıurdık
+	-Yanlara border
+	-Map Editör (Yohaaamına)
+
+-Statlar
+	-Nicki ismi
+	-Canı
+	-Skiller
+	-Puanı
+	-Menu
+
+-Puan listesi
+	-Oyun bitiminde tekrar baslatması ve puanların gosterilmesi
+	
+-Oyun Hiyerarşisi
+	-Menu diyaznı
+	-Karaktersecip girme filan
