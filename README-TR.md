@@ -1,16 +1,15 @@
 # LittleFighters
 
-## Aim of Project
-In this project 2D Rougle Like game developed without using any game engines. Main challenge of this project is develop an program in high flexibility and readability by using Design Patterns. The other challenge is experience developin 2d Physıcs without using any game engines. 
+## Projenin Geliştirilme Amacı
+Bu projede 2 boyutlu Rougle Like türünde bir oyun geliştirdim. Projenin geliştirilme amacaı Design Patternları kullanarak Esnekliği(Flexibility) ve OKunabilirliği(Readability) yüksek bir yapı oluşturmak ve hazır bir oyun motoru kullanılmadan, basit fizik algoritmaları geliştirerek tecrübe ve fikir kazanmaktır. Bu nedenle oyun dizaynı için fazla geliştirmeler yapılmamlıştır. 
 
-## Game Play
-Player tries to reach tent on the map while avoiding tarps and obstacle. Also players can create new map and place components in the way they want. They can save map and play the game on  new map. While creating map, components type with cordinates save to json file. While generating map that json file use.
+## Oyunun oynanışı
+Oyunun amacı karakterin yol üzerindeki engeller ve tuzaklardan kaçınarak çadıra olaşmasını sağlamaktır. Aynı zamanda oyuncuya kendi haritasını oluşturma ve oluşturduğu haritadan oynama seçeneği sunulmuştur. Harita oluşturma sayfasında oluşturulan objelerin kordinatlarıyla tipleri json formatında 'level.json' dosyasına yazılmıştır. Harita üzerinde oynamak istenildiğinde de 'level.json' dosyasındaki bilgilere gore objeler oluşurulmaktadır.
   
-## Game View
+## Oyun İçi Görüntüler
 
 ![](MapCreate.gif)
-*Creating Map*
+*Harita Oluşturma*
 
 ![](GamePlay.gif "Logo Title Text 1")
-*Gameplay*
-  
+*Oyun Oynanışı*
